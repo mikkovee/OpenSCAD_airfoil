@@ -1,6 +1,7 @@
 # OpenSCAD_airfoil
-## Parametric Airfoil and Wing generator v0.1
-Homepage: https://github.com/ErroneousBosch/OpenSCAD_airfoil
+## Parametric Airfoil and Wing generator 
+Homepage: https://github.com/mikkovee/OpenSCAD_airfoil
+This is a fork of https://github.com/ErroneousBosch/OpenSCAD_airfoil
 
 For a brief overview of the math and specifications used, see https://en.wikipedia.org/wiki/NACA_airfoil
 
